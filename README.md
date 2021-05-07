@@ -9,7 +9,7 @@
 - There were **369,711** votes cast in this congressional election
 - Number of votes and the percentage of total votes for each county in the precinct were as follow:
 
-![Votes by County](Deliverable 2 - Election Results Saved to Text File.png)
+![Votes by County](Analysis/Deliverable 2 - Election Results Saved to Text File.png)
 
 - Denver county had the largest number of votes with **306,055** of them
 - Number of votes and the percentage of the total votes each candidate received were as follow:
