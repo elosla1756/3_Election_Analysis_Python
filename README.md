@@ -22,6 +22,8 @@
 
 - Diana DeGette won the election with **272,892** votes, representing **73.8%** of the total votes
 
+https://github.com/eslawinski/Module_3_Election_Analysis_Challenge/blob/main/Analysis/Deliverable%202%20-%20Election%20Results%20Saved%20to%20Text%20File.png
+
 ## **Election-Audit Summary**:
 
 While we used our script to run an analysis of the outcome of a "small" election based on *popular* votes (i.e. the candidate with the highest percentage of the total votes wins), with only three candidates in three different counties, we could modify the script to be used for a presidential election based on electoral college votes. 
