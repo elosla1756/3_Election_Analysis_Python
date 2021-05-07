@@ -2,7 +2,7 @@
 
 ## **Overview of Election Audit**: The purpose of this analysis was to enable the election to commission to calculate the voter turnout and percentage of votes at the Colorado county level.
 
-### In the Bootcamptspot Module lesson, we had originally created an analysis that summarized the CO election results by candidate, but the election commission asked us to go a level deeper and perform a similar analysis at the county level.
+### In the Bootcamptspot Module lesson, we had originally created an analysis that summarized the CO election results by candidate, but the election commission asked us to go a level deeper and perform a similar analysis at the county level. Specifically, they wanted to understand how many voters each county saw, but they wanted to understand which county sae the most voters in this election.
 
 ## **Election Audit Results**:
 
