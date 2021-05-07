@@ -8,15 +8,13 @@
 
 - There were **369,711** votes cast in this congressional election
 - Number of votes and the percentage of total votes for each county in the precinct were as follow:
-ADD PICTURE
+
+![Votes by County](Deliverable 2 - Election Results Saved to Text File.png)
 
 - Denver county had the largest number of votes with **306,055** of them
 - Number of votes and the percentage of the total votes each candidate received were as follow:
 
 - Diana DeGette won the election with **272,892** votes, representing **73.8%** of the total votes
-
-
-ADD PICTURE
 
 ## **Election-Audit Summary**:
 
