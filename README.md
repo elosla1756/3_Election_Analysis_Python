@@ -6,7 +6,7 @@
 
 ## **Election Audit Results**:
 
-![Election Audit Summary](Resources/Theater_Outcomes_vs_Launch.png)
+![Election Audit Summary](Resources/Deliverable_2_Election_Results_Saved_to_Text_File.png)
 
 - There were **369,711** votes cast in this congressional election
 
