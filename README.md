@@ -28,8 +28,10 @@
 
 While we used our script to run an analysis of the outcome of a "small" election based on *popular* votes (i.e. the candidate with the highest percentage of the total votes wins), with only three candidates in three different counties, we could modify the script to be used for a presidential election based on electoral college votes. 
 
-If we wanted to use this script to define the winner of an *electoral college-based* election, we would need to replace our votes by county calculation to total votes by states.
+1. If we wanted to use this script to define the winner of an *electoral college-based* election, we would need to replace our votes by county calculation to total votes by states.
 Furthermore, we would need to define the number of electoral colleges by state, and add those as a variable to our script.
 Lastly, we would need to calculate the number of electoral college votes won by candidate and by state, and based on those, we would be able to define the winner of the presidental race.
+
+2. One additional way to use this script for another type of election would be if an election were in 2 rounds, just like in France. In the 1st round, voters can vote for any of the candidates that run for election. The script we built for the CO Board of Elections would be applicable in this case, as it would calculate the percentage of votes for **all** candidates. From that, we could modify the script to select the top 2 winners, as opposed to the winner with the highest score. In the 2nd round, voters could only vote for one of the top 2 candidates. Again, our initial vote would be applicable as the winner of this type of election would be the candidate with the highest number of votes. 
 
 
