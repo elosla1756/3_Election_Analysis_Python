@@ -6,6 +6,8 @@
 
 ## **Election Audit Results**:
 
+![Election Audit Summary](Resources/Theater_Outcomes_vs_Launch.png)
+
 - There were **369,711** votes cast in this congressional election
 
 - Number of votes and the percentage of total votes for each county in the precinct were as follows:
