@@ -28,8 +28,8 @@
 
 While we used our script to run an analysis of the outcome of a "small" election based on *popular* votes (i.e. the candidate with the highest percentage of the total votes wins), with only three candidates in three different counties, we could modify the script to be used for a presidential election based on electoral college votes. 
 
-If we wanted to use this script to define the winner of an electoral college-based election, we would need to replace our votes by county calculation to total votes by states.
-Furthermore, we would need to define the number of electoral colleges by each state, and add those as a variable to our script.
+If we wanted to use this script to define the winner of an *electoral college-based* election, we would need to replace our votes by county calculation to total votes by states.
+Furthermore, we would need to define the number of electoral colleges by state, and add those as a variable to our script.
 Lastly, we would need to calculate the number of electoral college votes won by candidate and by state, and based on those, we would be able to define the winner of the presidental race.
 
 
